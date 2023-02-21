@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "966297667513",
+    "firebase_url": "https://regionlang-default-rtdb.firebaseio.com",
+    "project_id": "regionlang",
+    "storage_bucket": "regionlang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966297667513:android:41508141103122d1cc9868",
+        "android_client_info": {
+          "package_name": "com.appdevcourse.bengaliappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966297667513-86uei6s2qumkon19mtr2qgh47lqmfi8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31iHbFqRIzDeWeQzhsofybgNHcCj-IWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966297667513-86uei6s2qumkon19mtr2qgh47lqmfi8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966297667513:android:1ab4e59ea0ab7bb0cc9868",
+        "android_client_info": {
+          "package_name": "com.instamobile.firebaseStarterKit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966297667513-86uei6s2qumkon19mtr2qgh47lqmfi8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31iHbFqRIzDeWeQzhsofybgNHcCj-IWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966297667513-86uei6s2qumkon19mtr2qgh47lqmfi8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
